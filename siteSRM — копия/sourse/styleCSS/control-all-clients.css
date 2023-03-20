@@ -1,0 +1,13 @@
+.table-all-clients textarea {
+    width: 100%;
+    border-style: solid;
+    resize: none;
+}
+
+.table-all-clients button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-width: 0.5px;
+}
